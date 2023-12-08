@@ -6,11 +6,10 @@
     color: rgb(0, 30, 255);
     font-size: 36px;
 }
-.number3{
+.font-size{
     font-size: 24px;
 }
 #number4{
     background-color: hsl(140, 100%, 50%);
-    font-size: 24px;
     font-weight: bold;
 }
